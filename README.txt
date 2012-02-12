@@ -4,7 +4,13 @@ BodyTypo was created during a workshop called "Tipografía e interacción" (typo
 
 The professor was Arturo Castro.
 
-The students involved in this project were Geeksha (https://n-1.cc/pg/profile/geeksha), Sweena (https://n-1.cc/pg/profile/sweena), Alberto Ariza (http://www.typognomics.com/alberto/blog/) and Berio Molina (http://www.berio.alg-a.org/) and of course Arturo Castro (http://arturocastro.net/)
+The students involved in this project were 
+Geeksha (https://n-1.cc/pg/profile/geeksha), 
+Sweena (https://n-1.cc/pg/profile/sweena), 
+Alberto Ariza (http://www.typognomics.com/alberto/blog/),
+Berio Molina (http://www.berio.alg-a.org/) 
+
+and of course Arturo Castro (http://arturocastro.net/)
 
 [galician]
 
